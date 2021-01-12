@@ -8,7 +8,7 @@ Nice to meet you. :wave:
 ```
 - Software engineer @ [<img src="https://user-images.githubusercontent.com/1004789/88155793-63180f00-cbbd-11ea-8a89-16b2b551dd66.png" height="13px" /> **Lyft**](https://lyft.com) since 2015.
 - I've worked on automation, frontend platforms, [web security](https://www.envoyproxy.io/docs/envoy/latest/start/sandboxes/csrf.html), and now infrastructure tooling.
-- Maintainer of [<img src="https://user-images.githubusercontent.com/4712430/87979407-a11b1300-ca97-11ea-9c03-c016e45501a4.png" width="16px" /> **Clutch**](https://github.com/lyft/clutch), the open source platform for instrastructure management.
+- Maintainer of [<img src="https://user-images.githubusercontent.com/4712430/87979407-a11b1300-ca97-11ea-9c03-c016e45501a4.png" width="16px" /> **Clutch**](https://github.com/lyft/clutch), the open source platform for infrastructure management.
 
 ### Let's Chat <img src="https://user-images.githubusercontent.com/1004789/88157670-e9cdeb80-cbbf-11ea-8954-2b95f3e6a2a5.png" width="20px" />
 - <img src="https://user-images.githubusercontent.com/4712430/87979407-a11b1300-ca97-11ea-9c03-c016e45501a4.png" width="20px" />&nbsp;Clutch: [github.com/lyft/clutch](https://github.com/lyft/clutch)
