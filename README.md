@@ -16,4 +16,8 @@ Nice to meet you. :wave:
 - <img src="https://user-images.githubusercontent.com/4712430/87982839-04f40a80-ca9d-11ea-8cd3-688d9a9dbfd4.png" height="20px" /> Slack: [@lyftoss / dschaller](https://join.slack.com/t/lyftoss/shared_invite/zt-casz6lz4-G7gOx1OhHfeMsZKFe1emSA)
 - <img src="https://user-images.githubusercontent.com/1004789/88156811-cbb3bb80-cbbe-11ea-97ec-9a151c133ec0.png" height="20px" />&nbsp;LinkedIn: [@derekschaller](https://www.linkedin.com/in/derekschaller)
 
+### Writing ✍️
+- [Announcing Clutch, the Open-source Platform for Infrastructure Tooling](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713)
+- [Great Design is Transparent](https://clutch.sh/blog/2021/04/05/great-design-is-transparent)
+
 ![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=dschaller&show_icons=true&count_private=true&title_color=02acbe&icon_color=02acbe&text_color=2D3F50)
