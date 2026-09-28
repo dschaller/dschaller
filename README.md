@@ -19,5 +19,6 @@ Nice to meet you. :wave:
 - [Announcing Clutch, the Open-source Platform for Infrastructure Tooling](https://eng.lyft.com/announcing-clutch-the-open-source-platform-for-infrastructure-tooling-143d00de9713)
 - [Great Design is Transparent](https://clutch.sh/blog/2021/04/05/great-design-is-transparent)
 - [Introducing Pulumi ESC Projects and Environment Tags](https://www.pulumi.com/blog/esc-projects-environment-tags-launch/)
+- [AI agents need continuity, not just context](https://www.pulumi.com/blog/neo-kopia-workspace-snapshots/)
 
 ![Derek's GitHub stats](https://github-readme-stats.vercel.app/api?username=dschaller&show_icons=true&count_private=true&title_color=02acbe&icon_color=02acbe&text_color=2D3F50)
